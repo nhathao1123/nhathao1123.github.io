@@ -1,0 +1,59 @@
+header{
+  margin: auto;
+  width: 100%;
+  padding: 5px;
+  height:60px;
+}
+#div1{
+ font-size: 30px;
+ color: red;
+text-align:center;
+ display: block; 
+ line-height: 2px; 
+ 
+}
+#div3{
+margin-left:40px;
+margin-right:40px;
+}
+#menu:link, #menu:visited {
+  background-color: #315190;
+  color: white;
+  padding: 15px 25px;
+  text-decoration: none;
+  display: inline-block;
+  width:auto;
+  float: left;
+}
+#menu:hover{
+background-color: #2D6FF3;
+color:black;
+}
+#div2{
+	text-align:right;   
+	font-size:20px;
+	color:blue;
+	text-decoration: none;
+}
+#div2:hover{
+color:#FDF73D;
+}
+#div3{
+font-size:18px;
+font-weight:5px;
+line-height: 20px;
+}
+#div4{
+	font-family: normal;
+	font-size: 25px;
+		
+}
+#div5{
+	font-family: normal;
+	font-size: 30px;
+	color:#271f0c;
+	background-color: #eea058;
+	text-align: center;
+	margin: center;
+}
+
