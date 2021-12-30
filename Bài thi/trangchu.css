@@ -1,0 +1,101 @@
+body{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 13px;
+    width: 1000px;
+    margin: 0px auto;
+
+}
+
+#menu-top{
+    background: gray;
+    height: 40px;
+}
+#menu-top ul li a:hover{
+    color: blue;
+    background: green;
+}
+#banner{
+    height: auto;
+    width: 1000px;
+}
+
+#main #left{
+    width: 700px;
+    min-height: 400px;
+    float: left;    
+}
+
+#main #right{
+    width: 300px;
+    min-height: 400px;
+    float: left;
+}
+
+#footer{
+    background: #444444;
+    width: 1000px;
+    text-align: center;
+    height: 60px;
+    color: #fff;
+    clear: left;
+    line-height: 60px;
+}
+
+#menu-top ul{
+    margin: 0;
+    padding: 0;
+}
+
+#menu-top ul li{
+    list-style: none;
+    float: left;
+}
+
+#menu-top ul li a{
+    text-decoration: none;
+    display: block;
+    height: 40px;
+    line-height: 40px;
+    color: yellow;
+    padding: 0px 60px 0px 60px;
+    border-right: 1px solid #f1f1f1 ;
+}
+
+.menu1{
+    background: green;
+}
+
+#banner img{
+    width: 1000px;
+    height: 300px;
+}
+
+#main #left ul{
+    margin: 0;
+    padding: 0;
+}
+
+#main #left ul li{
+    list-style: none;
+    clear: left;
+    border-bottom: 2px solid #ccc;
+    float: left;
+    margin-bottom: 20px;
+}
+
+#main #left ul li img{
+    float: left;
+    margin-right: 10px;
+}
+
+#main #left ul li h2{
+    font-size: 15px;
+    margin-top: 0px;
+}
+#main{
+    margin-top: 20px;
+}
+
+
+
+
